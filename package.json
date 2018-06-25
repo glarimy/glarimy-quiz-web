@@ -1,0 +1,22 @@
+{
+  "name": "glarimy-quiz-web",
+  "version": "1.0.0",
+  "description": "The desktop web browser interface to Glarimy Quiz Community service",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glarimy/glarimy-quiz-web.git"
+  },
+  "author": "Krishna Mohan Koyya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glarimy/glarimy-quiz-web/issues"
+  },
+  "homepage": "https://github.com/glarimy/glarimy-quiz-web#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
