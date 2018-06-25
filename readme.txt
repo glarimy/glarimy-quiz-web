@@ -4,7 +4,7 @@
 3. Issue the following command to verify the npm version
 >npm -version
 4. Download the project from https://github.com/glarimy/glarimy-quiz-web
-5. Extract the downloaded zip and move to the folder glarimy-quiz-web
+5. Extract the downloaded zip and move to the folder glarimy-quiz-web-master
 6. Issue the following command to setup the environment
 >npm install
 7. Issue the followign command to start the application
